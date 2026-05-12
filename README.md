@@ -37,7 +37,11 @@ while True:
     break
 ```
 ## OUTPUT
-<img width="1916" height="362" alt="image" src="https://github.com/user-attachments/assets/bcb927fd-1e68-493c-bf74-e4d73c458f12" />
+### SERVER
+<img width="961" height="405" alt="S 2a" src="https://github.com/user-attachments/assets/675ad725-3608-48be-90e0-bf7f3d2eabbe" />
+
+### CLIENT
+<img width="960" height="405" alt="WhatsApp Image 2026-05-12 at 2 04 00 PM" src="https://github.com/user-attachments/assets/e36e6fe7-1360-4c93-bcd7-db9dc86a6749" />
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
